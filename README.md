@@ -1,9 +1,9 @@
-# API ADS 4º Semestre 
-# SIATT Synergy.
+# API ADS 4th Semester
 
+# SIATT Synergy
 
 <p align="center">
-      <img src="Documentação/img/Logo/logo-BuzzTech.png" alt="logo da Buzz Tech" width="200">
+      <img src="Documentação/img/Logo/logo-BuzzTech.png" alt="Buzz Tech logo" width="200">
       <h2 align="center"> Buzz Tech</h2>
 
 <br>
@@ -11,23 +11,19 @@
 <hr>
 <br>
 <p align="center">
-  <a href ="#desafio"> Desafio </a>  |   
-  <!-- <a href ="#escopo"> Escopo </a>  |    -->
-  <a href ="#metodologia"> Metodologia </a>  |
+  <a href ="#challenge"> Challenge </a>  |   
+  <!-- <a href ="#scope"> Scope </a>  |    -->
+  <a href ="#methodology"> Methodology </a>  |
   <a href ="#mvp"> MVP </a>  |
-  <a href ="#prot"> Protótipo </a>  |
-  <a href ="#demo"> Vídeo </a>  |
-  <a href ="#sprint"> Sprints </a>  |
-  <a href ="#requisitos"> Requisitos </a>  | 
-  <a href ="#backlog"> Backlog do Produto </a>  | 
+  <a href ="#prototype"> Prototype </a>  |
+  <a href ="#sprints"> Sprints </a>  |
+  <a href ="#requirements"> Requirements </a>  | 
+  <a href ="#product-backlog"> Product Backlog </a>  | 
   <!-- <a href ="#roadmap"> Roadmap </a>  | -->
   <!--<a href ="#personas"> Personas </a>  | -->
-  <a href ="#equipe"> Equipe </a>  |
-  <a href ="#focal"> Focal Point </a>
+  <a href ="#team"> Team </a>  |
+  <a href ="#focal-point"> Focal Point </a>
 </p>
-
-
-
 
 <br>
 
@@ -42,38 +38,35 @@
  <a href="https://nextjs.org/"><img src = "https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/></a>
  <a href="https://www.atlassian.com/br/software/jira"><img src = "https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white"/></a>
  <a href="https://code.visualstudio.com/"><img src = "https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></a>
-      
 </h4>
 
-
-
 <br>
 <br>
 
-> Status do Projeto: Finalizado! 🟢
+> Project Status: Finished! ✅
 
 <br>
 
-## :medal_sports: Desafio <a id="desafio"></a>
+## :medal\_sports: Challenge <a id="challenge"></a>
 
-Desenvolver uma aplicação web que atue como um sistema gerênciador para reuniões de uma organização. O foco é garantir que os membros da organização possam ter acesso às salas disponíveis em formatos híbrido, presencial e online, bem como a horários vagos para reuniões.
+Develop a web application that works as a meeting management system for an organization. The focus is to ensure that members can access available rooms in hybrid, in-person, and online formats, as well as free time slots for meetings.
 
 <br>
 
 ## 🚀 MVP <a id="mvp"></a>
 
 <div>
-  A definição do nosso Minimal Viable Product (MVP) é uma versão sintética, porém funcional, do software de gerenciamento de reuniões. Nele o usuário poderá:
+  Our Minimum Viable Product (MVP) is a concise yet functional version of the meeting management software. In it, the user will be able to:
 
-- Agendar reuniões presencias, online e híbridas de forma flexível, rastreável e simples.
-- Informar a ocupação de salas e usuários.
-- Cadastrar, editar e excluir usuários e salas de reunião, de todos os tipos, com suas devidas restrições.
+* Schedule in-person, online, and hybrid meetings in a flexible, trackable, and simple way.
+* Provide occupancy information for rooms and users.
+* Register, edit, and delete users and meeting rooms of all types with their respective constraints.
+
 </div>
-
 
 <br>
 
-## 	:art: Protótipo do Programa <a id="prot"></a>
+## :art: Program Prototype <a id="prototype"></a>
 
 <br>
 
@@ -147,128 +140,114 @@ Desenvolver uma aplicação web que atue como um sistema gerênciador para reuni
       </td>
     </tr>
   </table>
-  
 </div>
-
 
 <br>
 
-
-
-
-<!-- ## :goal_net: Escopo do Projeto <a id="escopo"></a>
-*Pré-requisitos:*
- > *Requisitos Funcionais*
-- [x] Linguagem Java (Requisito Fatec)
-- [x] Interface GUI no Java - Swing
-- [x] Editor Online Figma
-- [x] Apresentação via Github.
-- [x] O programa desktop deverá ser intuitivo e sem excesso de informações.
- > *Requisitos Não Funcionais*
-- [x] Usabilidade
-- [x] Sistema de gerenciamento de banco de dados - MySQL
+<!-- ## :goal_net: Project Scope <a id="scope"></a>
+*Prerequisites:*
+ > *Functional Requirements*
+- [x] Java language (Fatec requirement)
+- [x] Java GUI interface - Swing
+- [x] Figma Online Editor
+- [x] Presentation via Github.
+- [x] The desktop program must be intuitive and avoid information overload.
+ > *Non-Functional Requirements*
+- [x] Usability
+- [x] Database management system - MySQL
  
 <br> -->
 
-## 📽 Demonstração <a id="demo"></a>
 
-[Vídeo de Demonstração - Sprint 2](https://fatecspgov.sharepoint.com/:v:/r/sites/BuzzTech/API%20202401/06.Apresenta%C3%A7%C3%B5es%20de%20SPRINT/Entrega%20Sprint%202.mp4?csf=1&web=1&e=rAhAUq&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D "Entrega Sprint 2")
+## :books: Methodology <a id="methodology"></a>
 
-<br>
+The Agile framework used was Scrum—an adaptive, iterative, flexible, and effective method. Its guiding principles are:
 
-## :books: Metodologia <a id="metodologia"></a>
-
-
-
-O framework de Metodologia Ágil utilizado no produto foi o Scrum, um método ágil adaptativo, iterativo, flexível e eficaz. Este método possui os seguintes princípios norteadores:
-
-1. *Controle empírico*
-2. *Auto-organização*
-3. *Colaboração*
-4. *Priorização da criação de valor*
+1. *Empirical control*
+2. *Self-organization*
+3. *Collaboration*
+4. *Prioritization of value creation*
 5. *Time-boxing*
-6. *Desenvolvimento iterativo*
+6. *Iterative development*
 
-Entre as ferramentas utilizadas no Scrum, uma é a divisão do projeto em **Sprints**. Para selecionar quais seriam as entregas das nossas Sprints, primeiro definimos nosso **MVP**, priorizando as tarefas que trariam maior entrega de valor para o cliente. Então, a partir das Tarefas foi construído o **Backlog do Produto**,  o qual foi aprovado pelo cliente e dividido em 4 Backlog de Sprint.
+Among the tools used in Scrum is breaking the project into **Sprints**. To select the deliverables for our Sprints, we first defined our **MVP**, prioritizing tasks that would bring the greatest value to the client. From these tasks, we built the **Product Backlog**, which was approved by the client and split into 4 Sprint Backlogs.
 
-Logo, para embasar a tomada de decisão e priorizar as tarefas com maior entrega de valor, utilizamos a construção de **Personas**. Pois, através delas, tivemos mais clareza sobre o direcionamento das nossas **Histórias de Usuários**. Dessa forma, traçadas as Tarefas, Personas e Histórias de Usuários, utilizamos a ferramenta de Planning Poker para definir a quantidade de tempo necessário para cada Tarefa, sendo dividido, de maneira mais otimizada, entre os Desenvolvedores do time.
-
-<br>
-
-## :date: Sprints <a id="sprint"></a>
-
-🔖 SPRINT 1:  Finalizada!🟩
-
-🔖 SPRINT 2:  Finalizada!🟩
-
-🔖 SPRINT 3:  Finalizada!🟩
-
-🔖 SPRINT 4:  Finalizada!🟩
+To support decision-making and prioritize higher-value tasks, we created **Personas**. With them, we had greater clarity in guiding our **User Stories**. With Tasks, Personas, and User Stories outlined, we used **Planning Poker** to estimate the time needed for each task, distributing work more efficiently among the team’s developers.
 
 <br>
 
-## :key: Requisitos<a id="requisitos"></a>
+## \:date: Sprints <a id="sprints"></a>
+
+🔖 **SPRINT 1:** Finished! 🟩
+
+🔖 **SPRINT 2:** Finished! 🟩
+
+🔖 **SPRINT 3:** Finished! 🟩
+
+🔖 **SPRINT 4:** Finished! 🟩
+
+<br>
+
+## :key: Requirements <a id="requirements"></a>
 
 <div align="center">
 
-|          Requisitos           |                     Descrição                      |         Origem          |
-| :-------------------: | :----------------------------------------------------------: | :-------------: |
-| RQ01 |Acesso via browser por meio de servidor interno (visando integração posterior com intranet), com login e senha.|Lista de requisitos|
-| RQ02 |Cadastro de usuários, incluindo categorias Nome, Email, Diretoria, Nível de Permissão (Nível 1, Nível 2, Nível 3).|Lista de requisitos|
-| RQ03 |Cadastro de Salas de Reuniões Online (via Zoom) e Offline (Físicas, que podem ser do tipo Individual ou Grupo). As salas devem ter um nível de permissão mínimo a partir do qual o usuário pode realizar a reserva.|Lista de requisitos|
-| RQ04 |Interface para agendamento de reuniões permitindo as categorias Online, Offline, híbrido e Individual, mostrando disponibilidade de salas para cada categoria na data escolhida (A categoria híbrida deve reservar duas salas, uma online e uma sala Offline – Grupo).|Lista de requisitos|
-| RQ05 |A interface deve apresentar informações como Título, Data e Horário, Participantes, Pauta, Anexos (opcional). Ao fim do agendamento, o software deve enviar um e-mail com agendamento Outlook para todas as pessoas e salas agendadas. No caso de salas online, o software deve agendar a reunião via Zoom e gerar o link de reunião a ser enviado para os participantes.|Lista de requisitos|
-| RQ06 |No caso do agendamento individual, o usuário deve ter a opção de realizar um agendamento completo de reunião ou de apenas agendar a sala de reunião Individual para uma reunião já existente em sua agenda.|Lista de requisitos|
-| RQ07 |O membro da equipe responsável pelo agendamento deve receber também um e-mail contendo o esboço da ata da reunião gerada em arquivo Word. Um exemplo do formulário vazio da ata será fornecido aos alunos, mas conterá campos como Assunto, Data, Confidencialidade, Área e Programa, Pauta, Lista de Participantes Convocados, Etc.|Lista de requisitos|
-| RQ08 |O software deve ser capaz de realizar interface com a API do Outlook, a fim de verificar disponibilidade dos participantes por meio de cruzamento entre agendas.|Lista de requisitos|
-| RQ09 |O software deve ser capaz de avaliar a solicitação do colaborador e os calendários das salas registradas a fim de propor uma sala disponível para agendamento.|Apresentação do projeto|
-| RQ10 |Ao fim do agendamento, o usuário responsável pela solicitação deve receber um e-mail com a confirmação e os dados necessários para acesso à sala, assim como o link de acesso para envio aos outros participantes quando aplicável.|Apresentação do projeto|
-| RQ11 |Ao fim do agendamento, o usuário responsável pela solicitação deve receber um e-mail com a confirmação e os dados necessários para acesso à sala, assim como o link de acesso para envio aos outros participantes quando aplicável.|Apresentação do projeto|
-| RQ12 |O usuário que criou a reunião deve ser capaz de desmarcar uma reunião.|Acordo com o cliente|
-| RQ13 |O usuário deve ser capaz de recusar a participação de uma reunião.|Acordo com o cliente|
-| RQ14 |O usuário deve ser avisado quando o tempo de agendamento estiver acabando.|Acordo com o cliente|
-| RQ15 |O usuário precisa ser notificado caso uma reunião seja desmarcada.|Acordo com o cliente|
-| RQ16 |Quando uma reunião estiver próxima o convidado da mesma deve ser notificado.|Acordo com o cliente|
-| RQ17 |O usuário administrador deve ter a possibilidade de excluir salas e outros usuários do sistema. |Acordo com o cliente|
-| RQ18 |Os usuários devem ter a possibilidade de editar suas informações dentro do sistema.|Acordo com o cliente|
+| Requirements |                                                                                                                                                               Description                                                                                                                                                              |        Source        |
+| :----------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------: |
+|     RQ01     |                                                                                                        Access via browser through an internal server (aiming for later integration with the intranet), with login and password.                                                                                                        |   Requirements list  |
+|     RQ02     |                                                                                                                   User registration, including Name, Email, Department, Permission Level (Level 1, Level 2, Level 3).                                                                                                                  |   Requirements list  |
+|     RQ03     |                                                                                Registration of Online Meeting Rooms (via Zoom) and Offline (Physical—Individual or Group). Rooms must have a minimum permission level required for a user to book them.                                                                                |   Requirements list  |
+|     RQ04     |                                                        Interface for scheduling meetings in Online, Offline, Hybrid, and Individual categories, showing room availability for each category on the chosen date (Hybrid must book two rooms: one online and one Offline – Group).                                                       |   Requirements list  |
+|     RQ05     | The interface must present Title, Date & Time, Participants, Agenda, Attachments (optional). At the end of scheduling, the software must send an Outlook meeting invite email to all people and rooms booked. For online rooms, the software must schedule the meeting via Zoom and generate the meeting link to send to participants. |   Requirements list  |
+|     RQ06     |                                                                                For individual scheduling, the user must be able to fully schedule a meeting or just book the Individual meeting room for an already existing meeting in their calendar.                                                                                |   Requirements list  |
+|     RQ07     |                       The team member responsible for scheduling must also receive an email containing a draft of the meeting minutes generated as a Word file. A blank template will be provided, with fields such as Subject, Date, Confidentiality, Area & Program, Agenda, List of Invited Participants, etc.                      |   Requirements list  |
+|     RQ08     |                                                                                                           The software must interface with the Outlook API to check participant availability by cross-referencing calendars.                                                                                                           |   Requirements list  |
+|     RQ09     |                                                                                                  The software must evaluate the employee’s request and the calendars of registered rooms to propose an available room for scheduling.                                                                                                  | Project presentation |
+|     RQ10     |                                                                        At the end of scheduling, the requester must receive a confirmation email with the necessary room access details and, when applicable, the access link to forward to other participants.                                                                        | Project presentation |
+|     RQ11     |                                                                        At the end of scheduling, the requester must receive a confirmation email with the necessary room access details and, when applicable, the access link to forward to other participants.                                                                        | Project presentation |
+|     RQ12     |                                                                                                                                       The user who created the meeting must be able to cancel it.                                                                                                                                      |   Client agreement   |
+|     RQ13     |                                                                                                                                      The user must be able to decline participation in a meeting.                                                                                                                                      |   Client agreement   |
+|     RQ14     |                                                                                                                                     The user must be notified when the booking time is running out.                                                                                                                                    |   Client agreement   |
+|     RQ15     |                                                                                                                                           The user must be notified if a meeting is canceled.                                                                                                                                          |   Client agreement   |
+|     RQ16     |                                                                                                                                      When a meeting is approaching, the invitee must be notified.                                                                                                                                      |   Client agreement   |
+|     RQ17     |                                                                                                                              The admin user must be able to delete rooms and other users from the system.                                                                                                                              |   Client agreement   |
+|     RQ18     |                                                                                                                                     Users must be able to edit their information within the system.                                                                                                                                    |   Client agreement   |
 
 </div>
 
 <br>
 
-## :seedling: Backlog do Produto<a id="backlog"></a>
+## :seedling: Product Backlog <a id="product-backlog"></a>
 
 <div align="center">
-      
-|   Rank  |   Requisito   | Prioridade |                                                                                           User Story                                                                                      | Story Points | Sprint | Status  |
-| :-----: | :-----------: | :--------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------: | :----: | :-----: |
-|  1      |      RQ02      |    Alta    |Como um usuário administrador, quero ser capaz de cadastrar usuários no sistema para poder realizar reuniões.                                                                                 |     5     |    1   |   🟩   |
-|  2      |      RQ01      |    Alta    |Como um usuário comum ou administrador, quero poder fazer login no sistema para acessar minha conta.                                                                                          |     5     |    1   |   🟩   |
-|  3      |    RQ04   |    Alta    |Como usuário comum, quero agendar reuniões em salas presenciais em grupo para colaboração e a comunicação de forma pessoal.                                          |     6     |    1   |   🟩   |
-|  4      |      RQ04-RQ06      |    Alta    |Como um usuário do sistema, quero ser capaz agendar reuniões individuais em uma sala de reunião física, para participar de reuniões sozinho.                                        |     4    |    1   |   🟩   |
-|  5      |      RQ04      |    Alta    |Como usuário comum, quero agendar reuniões online no Zoom pelo sistema para facilitar a comunicação remota e a colaboração entre os membros da equipe.            |     15    |    2   |   🟩   |
-|  6      |      RQ04      |    Alta    |Como usuário comum, quero poder agendar reuniões híbridas selecionando uma sala presencial e outra online para facilitar a participação remota e presencial dos membros da equipe.|                17     |   2   |   🟩   |
-|  7      |      RQ03      |    Alta    |Como usuário administrador, quero criar salas de reuniões físicas para facilitar o agendamento e a reserva de espaços adequados para reuniões presenciais.|     4     |    1   |   🟩   |
-|  8      |      RQ03      |    Alta    |Como usuário administrador, quero criar salas de reuniões virtuais para participar de reuniões via zoom.                                    |     10     |    2   |   🟩   |
-|  9      |      RQ07      |    Alta    |Como usuário comum responsável por agendar a reunião, quero receber um e-mail contendo o esboço da ata da reunião gerada em arquivo Word para facilitar a preparação e organização da reunião.                                                                                      |     6    |    3   |   🟩   |
-|  10     |      RQ03      |    Média    |Como um novo usuário criador da reunião, quero ser capaz de visualizar as reuniões que criei para ter maior controle da minha agenda.                                                         |     5     |    1   |   🟩   |
-|  11     |      RQ09      |    Média    |Como usuário comum, ao preencher as informações da reunião, quero receber sugestões de sala para agenda-la para ter mais facilidade de uso.                                                  |     6     |    3   |   🟩   |
-|  12     |       RQ08      |   Média    |Como usuário comum, ao marcar uma reunião, quero ver a disponibilidade dos convidados para verificar quem poderá participar da mesma.                                      |     6     |    3   |   🟥   |
-|  13     |      RQ10      |   Média    |Como usuário comum, ao agendar uma reunião, quero receber um e-mail de confirmação do agendamento para ter a certeza de que a reunião foi marcada corretamente e facilitando o acompanhamento da minha agenda.                                                         |     4     |    3   |   🟩   |
-|  14     |      RQ12      |   Média    |Como usuário comum criador da reunião, quero desmarcar reuniões que criei para evitar a realização de reuniões desnecessárias ou agendadas erroneamente.                                                   |     3     |    3   |   🟩   |
-|  15     |      RQ13      |   Média    |Como usuário comum convidado de uma reunião, quero recusar a participação de qualquer tipo de reunião para liberar minha agenda quando necessário.|     3     |    3   |   🟩   |
-|  16     |      RQ05      |   Média    |Como usuário comum, ao ser convidado para uma reunião, quero receber uma notificação por e-mail para saber em que reuniões estou participando.                                                              |     4     |    3   |   🟩   |
-|  17     |      RQ17      |    Média   |Como usuário administrador, quero editar informações de salas de reuniões para poder atualizar qualquer informação relevante, garantindo que as informações estejam precisas e atualizadas para os usuários que agendam reuniões.                                          |     5     |    3   |   🟩   |
-|  18     |      RQ17      |    Baixa   |Como usuário administrador, quero excluir salas de reuniões de qualquer tipo para remover espaços que não são mais necessários ou estão indisponíveis.|     3     |    3   |   🟩   |
-|  19     |      RQ15      |    Baixa   |Como usuário comum, quero ser avisado quando uma reunião for desmarcada para evitar confusões e garantindo que meu tempo seja utilizado de maneira eficiente e produtiva.                     |     5     |    4   |   🟩   |
-|  20     |      RQ16      |    Baixa   |Como um usuário comum, quero receber um aviso quando uma reunião agendada estiver próxima para me preparar adequadamente, organizar meu tempo e garantir minha participação pontual na reunião.|     5     |    4   |   🟥   |
-|  21     |      RQ14      |    Baixa   |Como usuário comum, quero receber um aviso no e-mail quando o tempo do agendamento da sala estiver acabando para que não haja conflitos de horários.                                        |     5     |    4   |   🟥   |
-|  22     |      RQ17      |    Baixa   |Como um usuário administrador, quero ser capaz de excluir usuários no sistema para manter a segurança e a integridade do sistema.                                                                                |     3     |    4   |   🟩   |
-|  23     |      RQ18      |    Baixa   |Como usuário comum, quero ter a possibilidade de editar minhas informações para manter meus dados atualizados.                                                                                |     3     |    4   |   🟥   |
+
+| Rank | Requirement | Priority |                                                                          User Story                                                                         | Story Points | Sprint | Status |
+| :--: | :---------: | :------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------: | :----: | :----: |
+|   1  |     RQ02    |   High   |                                       As an admin user, I want to register users in the system so I can run meetings.                                       |       5      |    1   |   🟩   |
+|   2  |     RQ01    |   High   |                                       As a regular user or admin, I want to log into the system to access my account.                                       |       5      |    1   |   🟩   |
+|   3  |     RQ04    |   High   |                      As a regular user, I want to schedule meetings in in-person group rooms to collaborate and communicate in person.                      |       6      |    1   |   🟩   |
+|   4  |  RQ04–RQ06  |   High   |                            As a system user, I want to schedule individual meetings in a physical room to attend meetings alone.                            |       4      |    1   |   🟩   |
+|   5  |     RQ04    |   High   |              As a regular user, I want to schedule Zoom meetings through the system to facilitate remote communication and team collaboration.              |      15      |    2   |   🟩   |
+|   6  |     RQ04    |   High   |   As a regular user, I want to schedule hybrid meetings by selecting a physical room and an online room to enable both remote and in-person participation.  |      17      |    2   |   🟩   |
+|   7  |     RQ03    |   High   |           As an admin, I want to create physical meeting rooms to facilitate booking and reservation of appropriate spaces for in-person meetings.          |       4      |    1   |   🟩   |
+|   8  |     RQ03    |   High   |                                         As an admin, I want to create virtual meeting rooms to participate via Zoom.                                        |      10      |    2   |   🟩   |
+|   9  |     RQ07    |   High   | As the regular user responsible for scheduling, I want to receive an email with a draft of the minutes in a Word file to ease preparation and organization. |       6      |    3   |   🟩   |
+|  10  |     RQ03    |  Medium  |                         As a new user who created the meeting, I want to view the meetings I created to better control my schedule.                         |       5      |    1   |   🟩   |
+|  11  |     RQ09    |  Medium  |                            As a regular user, when filling in meeting details, I want room suggestions to make scheduling easier.                           |       6      |    3   |   🟩   |
+|  12  |     RQ08    |  Medium  |                           As a regular user, when scheduling a meeting, I want to see invitee availability to know who can attend.                          |       6      |    3   |   🟥   |
+|  13  |     RQ10    |  Medium  |     As a regular user, after scheduling a meeting, I want to receive a confirmation email to ensure it was correctly booked and to help track my agenda.    |       4      |    3   |   🟩   |
+|  14  |     RQ12    |  Medium  |                 As the regular user who created the meeting, I want to cancel meetings I created to avoid unnecessary or mistaken bookings.                 |       3      |    3   |   🟩   |
+|  15  |     RQ13    |  Medium  |                          As a regular user invited to a meeting, I want to decline any meeting to free up my schedule when needed.                          |       3      |    3   |   🟩   |
+|  16  |     RQ05    |  Medium  |                       As a regular user invited to a meeting, I want to receive an email notification so I know which meetings I’m in.                      |       4      |    3   |   🟩   |
+|  17  |     RQ17    |  Medium  |                       As an admin, I want to edit meeting room information to keep data accurate and updated for users booking rooms.                       |       5      |    3   |   🟩   |
+|  18  |     RQ17    |    Low   |                         As an admin, I want to delete any type of meeting room to remove spaces that are unnecessary or unavailable.                        |       3      |    3   |   🟩   |
+|  19  |     RQ15    |    Low   |                     As a regular user, I want to be notified when a meeting is canceled to avoid confusion and use my time efficiently.                     |       5      |    4   |   🟩   |
+|  20  |     RQ16    |    Low   |                        As a regular user, I want a reminder when a scheduled meeting is approaching so I can prepare and be on time.                        |       5      |    4   |   🟥   |
+|  21  |     RQ14    |    Low   |                           As a regular user, I want an email warning when a room’s booking time is ending to avoid time conflicts.                          |       5      |    4   |   🟥   |
+|  22  |     RQ17    |    Low   |                              As an admin, I want to be able to delete users from the system to maintain security and integrity.                             |       3      |    4   |   🟩   |
+|  23  |     RQ18    |    Low   |                                   As a regular user, I want to be able to edit my information to keep my data up to date.                                   |       3      |    4   |   🟥   |
 
 </div>
-
-
 
 <br>
 
@@ -277,45 +256,44 @@ Logo, para embasar a tomada de decisão e priorizar as tarefas com maior entrega
 
 | C-Level |
 | :------:|
-| Eu, como **C-Level** da *Ionic Health*, tenho como foco principal é fornecer informações claras e precisas aos nossos investidores sobre como estamos gerenciando nossos processos e cumprindo nossos objetivos. Preciso de relatórios que comuniquem de forma eficaz nosso sucesso e conformidade. |
+| As a **C-Level** at *Ionic Health*, my main goal is to provide clear and accurate information to our investors about how we manage our processes and meet our objectives. I need reports that effectively communicate our success and compliance. |
 
-| Gerente / Diretor |
+| Manager / Director |
 | :------:|
-| Eu, como **Gerente / Diretor** da *Ionic Health*, necessito da capacidade de criar, definir requisitos e acompanhar todos os detalhes dos projetos é fundamental para o sucesso da equipe. Preciso de uma ferramenta que me ajude a manter tudo sob controle de forma eficaz e eficiente. |
+| As a **Manager / Director** at *Ionic Health*, the ability to create, set requirements, and track all project details is essential for team success. I need a tool that helps me keep everything under control effectively and efficiently. |
 
-| Líder / Gestor |
+| Leader / Coordinator |
 | :----:|
-|Eu, como **Líder / Gestor** da *Ionic Health*, é essencial ter uma ferramenta que me permita adicionar novas etapas com clareza e eficiência aos processos existentes. Isso simplifica a adaptação e o gerenciamento dos processos em constante evolução. Também é imperativo que possa fazer requisições das evidências necessárias para a validação de tais etapas, isso torna possível acompanhar o progresso e garantir que todos estejam alinhados com nossas metas. |
+|As a **Leader / Coordinator** at *Ionic Health*, it’s essential to have a tool that allows me to add new steps clearly and efficiently to existing processes. This simplifies adaptation and management of ever-evolving processes. It’s also imperative to request the evidence required to validate these steps, making it possible to track progress and ensure everyone is aligned with our goals. |
 
-| Colaborador  |
+| Contributor  |
 | :----------: |
-| Eu, como **Colaborador** da *Ionic Health*, preciso de uma maneira fácil e eficaz de gerenciar todas as evidências necessárias nos processos da empresa. Uma notificação clara e instruções precisas são essenciais para garantir que eu possa fazer o meu trabalho de forma eficiente.  |
+| As a **Contributor** at *Ionic Health*, I need an easy and effective way to manage all evidence required in the company’s processes. Clear notifications and precise instructions are essential to ensure I can do my job efficiently.  |
 -->
 
 <br>
 
 <div align="center">
-      
-## :mortar_board: Equipe <a id="equipe"></a>
-      
-|      Membro      |    Função     |                            Github                            |                           Linkedin                           |
-| :--------------: | :-----------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| Natanael Machado  | Product Owner | <a href="https://github.com/NatanaelSM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/natanael-machado-796841270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Ivan Duarte | Scrum Master | <a href="https://github.com/Ivan-Duarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/ivan-duarte-982532217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|    Isaque da Silva    | Desenvolvedor  | <a href="https://github.com/KhovetS2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|  Vitor Lima  | Desenvolvedor | <a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-|   Cauan Almeida   | Desenvolvedor | <a href="https://github.com/Tsundek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/cauancesar-almeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Pedro Davi | Desenvolvedor | <a href="https://github.com/PedrohDavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/pedro-davi-jobs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
-| Nilber Siqueira | Desenvolvedor | <a href="https://github.com/NilberSiqueira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> | <a href="https://www.linkedin.com/in/nilber-siqueira-b3404a176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |      
+
+## \:mortar\_board: Team <a id="team"></a>
+
+|      Member      |      Role     |                                                                         Github                                                                         |                                                                                       Linkedin                                                                                       |
+| :--------------: | :-----------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| Natanael Machado | Product Owner |   <a href="https://github.com/NatanaelSM"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   |    <a href="https://www.linkedin.com/in/natanael-machado-796841270"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>   |
+|    Ivan Duarte   |  Scrum Master |   <a href="https://github.com/Ivan-Duarte"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>  |      <a href="https://www.linkedin.com/in/ivan-duarte-982532217"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>      |
+|  Isaque da Silva |   Developer   |    <a href="https://github.com/KhovetS2"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    | <a href="https://www.linkedin.com/in/isaque-elis-da-silva-2a4087226/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> |
+|    Vitor Lima    |   Developer   |    <a href="https://github.com/lima2206"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    |  <a href="https://www.linkedin.com/in/vitor-spricigo-lima-84a377184"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  |
+|   Cauan Almeida  |   Developer   |     <a href="https://github.com/Tsundek"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>    |       <a href="https://www.linkedin.com/in/cauancesar-almeida/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>       |
+|    Pedro Davi    |   Developer   |   <a href="https://github.com/PedrohDavi"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a>   |         <a href="https://www.linkedin.com/in/pedro-davi-jobs/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>        |
+|  Nilber Siqueira |   Developer   | <a href="https://github.com/NilberSiqueira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"></a> |    <a href="https://www.linkedin.com/in/nilber-siqueira-b3404a176"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>    |
 
 <br>
 
-## :dart: Focal Point<a id="focal"></a>
+## :dart: Focal Point <a id="focal-point"></a>
 
-| PO²              | M²       |
-| :-------------------: | :-----------: |
-| <a href='https://www.linkedin.com/in/juliana-forin-pasquini-martinez-756b24163/'>Profª Juliana</a> | <a href=''>A definir</a> |
-
+|                                                 PO²                                                |              M²              |
+| :------------------------------------------------------------------------------------------------: | :--------------------------: |
+| <a href='https://www.linkedin.com/in/juliana-forin-pasquini-martinez-756b24163/'>Prof. Juliana</a> | <a href=''>To be defined</a> |
 
 </div>
 
